@@ -50,6 +50,9 @@ li {
   position: relative;
   top: -34px;
 }
+small {
+  text-decoration: none;
+}
 
 /*.weather-app {
   max-width: 600px;
